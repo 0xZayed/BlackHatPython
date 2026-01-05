@@ -1,0 +1,7 @@
+# Crypto keys
+key.pri
+key.pub
+
+# Bytecode / cache
+__pycache__/
+*.pyc
